@@ -54,7 +54,7 @@
                 <div class="col-lg-6 mb-5 mb-lg-0" style="z-index: 10">
                     <h1 class="my-5 display-5 fw-bold ls-tight" style="color: hsl(218, 81%, 95%)">
                     k-rten <br />
-                    <span style="color: hsl(218, 81%, 75%)">voiture de luxe</span>
+                    <span style="color: hsl(218, 81%, 75%)">Voiture de luxe</span>
                     </h1>
                     <p class="mb-4 opacity-70" style="color: hsl(218, 81%, 85%)">
                     Lorem ipsum dolor, sit amet consectetur adipisicing elit.
