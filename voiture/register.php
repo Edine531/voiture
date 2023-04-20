@@ -15,18 +15,22 @@
             <div class="card-header">Inscription</div>
             <div class="card-body">
                 <!--  contenu du formulaire -->
-                <form method="post" action="authentifier.php">
+                <form method="post" action="inser.php">
                     <div class="form-group">
                         <label>Nom:</label>
                         <input type="text" name="nom" class="form-control" />
                     </div>
                     <div class="form-group">
                         <label>Prenom:</label>
-                        <input type="text" name="text" class="form-control" />
+                        <input type="text" name="prenom" class="form-control" />
                     </div>
                     <div class="form-group">
                         <label>Email:</label>
                         <input type="email" name="email"  class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label>Passsword:</label>
+                        <input type="text" name="passsword"  class="form-control" />
                     </div>
                     <div>
                         <button type="submit">se connecter</button>
